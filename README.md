@@ -37,7 +37,8 @@ linkedin profile
     1. [`course link`](https://www.linkedin.com/learning/programming-foundations-apis-and-web-services/communicate-on-the-web-using-services?autoplay=true&contextUrn=urn%3Ali%3AlearningCollection%3A6910304781517406208)
 
 - Programming Foundations: Software Testing/QA
-    1.[`course link`](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/set-the-standard-with-quality-assurance-qa?autoplay=true&contextUrn=urn%3Ali%3AlearningCollection%3A6910304781517406208)
+   
+   1.[`course link`](https://www.linkedin.com/learning/programming-foundations-software-testing-qa/set-the-standard-with-quality-assurance-qa?autoplay=true&contextUrn=urn%3Ali%3AlearningCollection%3A6910304781517406208)
 
 - Git Essential Training: The Basics
     1. [`course link`](https://www.linkedin.com/learning/git-essential-training-the-basics/version-control?autoplay=true&contextUrn=urn%3Ali%3AlearningCollection%3A6910304781517406208)
