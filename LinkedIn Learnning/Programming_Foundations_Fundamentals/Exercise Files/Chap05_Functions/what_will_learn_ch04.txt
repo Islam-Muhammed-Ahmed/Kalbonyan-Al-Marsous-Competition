@@ -1,0 +1,27 @@
+#in this chapter you will learn.
+
+1. how to deal with functions in python and intro to it 
+    a.note : try not to repeat your self
+
+2. naming your function with unique names to describe what this func do
+
+3. the word defines a function in python is (def)
+    ex: def say_hello():
+            print("hello, friends")
+
+4.function with parameters and arguments
+    ex: 
+def aim(passing,success):
+    if (passing == "KalbonyanAlmarsos" and success == "passed in sha'allah"):
+        print("traveling to Aswan")
+        print("having a car in your dreams")
+
+5. function with return value
+    ex: 
+    def withdraw_money(current_balance, amount):
+        if (current_balance >= amount):
+            current_balance = current_balance - amount
+            return current_balance
+
+6. at the end you will learn difference syntax of functions in other langs like java , kotlin, my be loved JS <3 and etc..        
+

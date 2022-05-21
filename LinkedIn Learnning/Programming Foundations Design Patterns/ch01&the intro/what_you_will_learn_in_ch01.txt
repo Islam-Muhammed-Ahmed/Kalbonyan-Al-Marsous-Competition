@@ -1,0 +1,24 @@
+        #بسم الله#
+intro:
+    1. Don't reinvent the wheel.
+        a. program to an interface, not an implementation:
+            i. clients remain unaware of the specific types of objects they use, as long as the objects adhere to the interface that clients expect.
+        b. favor composition over inheritance:
+            i. class should achieve code reuse using composition rather than inheritance from superclass. 
+    2. What you should know
+        a. previous knowledge in any programming language.
+
+ch01:
+    1. Object-oriented design experience
+        a. design patterns help you from reinventing the wheel by using patterns often short cut your design process.
+        b. building resilient code to change.
+        c. Preparing for future additions.
+    2. What are design patterns?
+        a. it's all about reusing experience, design experience.
+        b. design patterns are not algorithms or code it's approach to thing about software design.
+        c. design patterns strategy :
+            this pattern defines a family of algorithms, encapsulation each one, and makes them interchangeable.
+    3. What are design principles?
+        a. inheritance, polymorphism, abstraction and encapsulation etc...
+        b. encapsulate what varies : identify the aspects of your application that vary and separate them from what stays the same.
+        

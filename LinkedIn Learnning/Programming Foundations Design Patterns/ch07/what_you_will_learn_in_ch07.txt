@@ -1,0 +1,11 @@
+        #بسم الله #
+ch07 :
+
+    1. The need for factory patterns
+        a. program to an interface not an implementation:
+            -clients remain unaware of the specific types of objects they use, as long as the objects adhere to the interface that clients expect.
+        b. imagine you work in pizza restaurant and every time you create pizza you will make the same code iteration but the only different is the name of it
+            so in stead of making the same code every try to built a factory method to do this and call it when you need instead of repeating the code.
+    2. The Factory Method pattern
+        a. it's defines an interface for creating an object, but lets subclass decide which class to instantiate factory method lets a class defer instantiation to subclass.
+    3. Using the Factory Method pattern.

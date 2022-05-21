@@ -1,0 +1,23 @@
+   #بسم الله #
+
+# ch06 : 
+    1. Identifying inheritance situations
+        a. inheritance describe a relationship between objects .
+        b. it saves you some and prevent reinventing the wheel.
+        c. inheritance can extends multiple level deep
+    2. Using inheritance
+        a. overriding : allowing a subclass to replace thr implementation of a method from the superclass
+    3. Abstract and concrete classes
+    4. Interfaces  : list of methods for a class to implement. it doesn't contain any actual behavior 
+        a. you aren't allowed to write any func in the Interface.
+        b. in uml you represent Interface us a box look similar to a box.
+        c. the good developers program to an interface not to an implementation.  
+    5. Aggregation
+        a. aggregation describes a "Has a " relationship of inheritance.
+            ex: aggregation: a spaceship has a(n) engine
+    6. Composition
+        a. composition is more specific form of aggregation like aggregation, composition is based around "Has a" relationship between objects.
+        b. but in specifically composition implies ownership.
+            ex: composition: a spaceship owns an engine.
+        c.  but difference between composition and aggregation is when we say spaceship owns an engine that's means whe the spaceship destroyed by olivia ^^ :D every thing will be destroyed with the spaceship. and vice versa.
+          

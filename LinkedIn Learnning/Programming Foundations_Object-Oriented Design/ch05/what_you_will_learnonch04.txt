@@ -1,0 +1,15 @@
+        #بسم الله #
+# CH05 :
+    1. creating class diagrams: Attributes
+    2. creating class diagrams: Behaviors
+        a. here he will tell you that you should focus what will objects do rather just doing them as data structure <3
+    3. Converting class diagrams into code.
+    4.Instantiating classes
+        a. it's used a method called Constructor : it's a special method that gets xa;;ed to create an object .
+    5. Class with multiple constructors
+        a. it's good thing to have more than one constructor in our func (object) 
+        b. Destructor : a special method that gets called when the object is destroyed 
+        c. and langs use the garbage collection (js) use something called a finalizer rather than destructor.
+    6. Static attributes and methods
+        a. you can store data as instance variable :
+             i. instance variable : variable for which ech instantiated object of a class has separate. 

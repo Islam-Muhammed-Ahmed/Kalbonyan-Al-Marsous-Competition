@@ -1,0 +1,12 @@
+  
+# ch02 iteration :
+    1. intro to iteration :
+        a. iteration : repeats (Loop) the same procedure multiple time until reached a specified endpoint.
+        b. infinite loop: bug that occur when the ending condition is omitted or specified incorrectly
+    
+    2. iteration through collections 
+        a. define For and in . in iteration
+
+    3. iteration to a custom or specified endpoint
+        a. this means i want the to run until ut reached a specified endpoint
+        b. intro to while statement 

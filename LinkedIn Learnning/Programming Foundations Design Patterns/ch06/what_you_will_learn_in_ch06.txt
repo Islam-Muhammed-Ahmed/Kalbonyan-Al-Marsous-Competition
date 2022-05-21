@@ -1,0 +1,20 @@
+        #بسم الله #
+Ch06:
+    
+    1. Encapsulating iteration
+    2. Understanding the Iterator pattern
+        a. this provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation.
+        b. aggregate objects collect object are arrays, java collection classes, like ArrayList, lists, sets, maps, and dictionaries.
+    3. Using the Iterator pattern
+    4. Using built-in iterators (JAVA).
+        a. Java's Collections classes all come with iterators
+        b. use the iterator() method to get the iterator fot any collection class, including ArrayList.
+        c. java arrays don't have built-in iterators.
+    5. The single responsibility principle
+       - this means a class should have only one reason to change. 
+        a. every responsibility increases the chance of changes
+        b. two responsibilities means two areas of potential change.
+        c. we want to avoid change whenever possible.
+    6. The iterator pattern as language feature
+        a. java's enhanced for statement, python for/in statement, and javaScript's for/of statement.
+    

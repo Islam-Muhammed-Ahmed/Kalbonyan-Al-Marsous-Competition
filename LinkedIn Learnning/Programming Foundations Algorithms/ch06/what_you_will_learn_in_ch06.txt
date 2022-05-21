@@ -1,0 +1,13 @@
+        #بسم الله #
+ch06:
+
+    1.Unique filtering with hash table
+        a. the key of hash table has to be unique.
+        b. the key of hash table was exists it will be replaced.
+        c. as this process each element in the list,
+            and then attempt to perform an addition to the has table
+            and as the number of elements grows the time complexity will grow in linear fashion
+    2. Value counting with hash table
+        a. as the hash table requires each key has to be unique we can implement an algorithm to count individual item.
+    3.Find max value recursively
+        

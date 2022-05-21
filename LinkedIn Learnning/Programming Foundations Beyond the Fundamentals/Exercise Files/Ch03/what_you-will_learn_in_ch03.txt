@@ -1,0 +1,21 @@
+      #بسم الله #
+#ch03
+    1.Comparing types of external code
+        a. tells you as you are a developer move on more complex programs it will be tedious to solve the same problem over and over .
+        b. across programming langs developer often create code to accomplish basic tasks and share it with developer community for free.
+        c. this ways makes you make custom parts of your programs.
+        d. he'll talk about module that built in python that contains code like variables or functions  
+            ex: import testmodule
+                testmodule.mult(10, 5) = 50
+        e. he'll talk in brief about frameworks and library
+
+    2.Working with a module
+        a. creating your own module (awesome)
+        b.https://pypi.org/ you can find millions of modules in this website
+
+    3. Understanding libraries and frameworks
+        a. both are larger collections of software tools that help developers accomplish specific tasks.
+        b. library gives you tools you can use as you wish 
+        c. frameworks essentially defines how you should accomplish a task as it's .(means some decisions are already made for as long as you understand how to code within the framework )
+
+        

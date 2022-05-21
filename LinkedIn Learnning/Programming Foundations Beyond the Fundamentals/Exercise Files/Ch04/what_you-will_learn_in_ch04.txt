@@ -1,0 +1,21 @@
+        #بسم الله #
+
+# cho04:
+
+    1.Combining and manipulating strings
+        a. Concatenation : when multiple strings are combined into a single string
+            ex : "Allah" + "Akbar" = Allah Akbar.
+
+    2. Finding patterns in strings 
+        a. when we would want to change the content of a string in our programs?
+            ans: imagine we have a form and user has to enter f.name & l.name and you want to add this data in your database 
+                and you want to store this data in capitalize but user fill it in lower case here you will use string methods 
+                to store it as you want.
+                 ex: text = "hello" here it's in lowerCase
+                    text.capitalize() will change it to = Hello.
+        b. string methods (capitalize, upper, find, index(), lower(), splice(), etc...) 
+    
+    3. Creating regular expressions
+        a. regular expression : allows you to create a description of a pattern that you want to match .
+
+    

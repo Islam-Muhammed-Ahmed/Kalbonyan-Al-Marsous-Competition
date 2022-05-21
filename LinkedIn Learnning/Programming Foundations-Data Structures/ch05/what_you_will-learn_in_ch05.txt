@@ -1,0 +1,24 @@
+        #بسم الله #
+# ch05 : 
+    1. What are associative arrays?
+        a. collection of key-value pairs Key:Value.
+        b. associative arrays rules:
+            i. key-value pairs are bound together.
+            ii. each key must be unique.
+            iii. order isn't important. 
+            iv. values are accessed with the key.
+            v. values don't need to be unique.
+    2. Understanding hash functions
+        a. hash is data conversion process.
+        b. hash inputs : characters, objects or numbers.
+        c.hash functions aren't reversible they are in one way.
+        e. ASCII : is a numerical representation of text characters(which mean every character has a single numerical representation).
+        f. Collision : anytime two inputs produce the same hash value.
+                       or when two keys have the same hash value.
+    3. Understanding hash tables
+        a. hash table is an implementation of the associative array abstract data structure.
+    4.Using dictionaries in Python
+    5. Language support for hashing
+    6. Language support for hash tables
+    7. Pros and cons of hash-based structures
+

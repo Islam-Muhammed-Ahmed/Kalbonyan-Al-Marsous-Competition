@@ -1,0 +1,18 @@
+        #بسم الله #
+# ch03 : 
+note : i think in this chapter i don't have to write any because all it needs is to focus on every thing they talking about just stay focus with the instructors
+    
+    1. use cases:
+        a. title: what is the goal?
+        b. primary actor : who desires it?
+        c. success scenario: how is it accomplish??
+    2. Identifying the actors
+    3. Identifying the scenarios
+        ex : imagine you have a microwave you have some scenarios to go through
+            1. plug into power 2. turn on power 3.enter cook time 4. press start button
+    4. Diagramming use cases:
+        a. use case diagram is another diagram that comes from UML.
+    5. User stories :
+        a. as a user(type of user) / i want to do(goal)... / so that(reason) ......
+            note: you have to watch to get it.
+        ex : as a photographer i've to use the camera to take some photos . here you focus on one specific goal 

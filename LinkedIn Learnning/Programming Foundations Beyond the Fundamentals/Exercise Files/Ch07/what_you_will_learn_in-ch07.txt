@@ -1,0 +1,18 @@
+        #بسم الله #
+
+# ch07
+    1. intro to debugging
+        a. debugging is identify and fix bugs
+        b.there is three type of error :
+            i. Syntax Error: that mean the rule of code does'nt match the lang  
+            ii. Run-Time Error: that mean your code walk through the rule of the lang but still not executed successfully. 
+                ex: you call a func that you haven't defined  
+            iii. Logic Error: that mean you write a code and it runs but doesn't produce the result you expect . 
+    
+    2. interpreting error messages        
+        a. error messages describe an issue rather than explain specifically what the issue might be in your code.
+    3. debugging without error messages
+        a. that means the syntax is good and your code will run but not as you expected 
+            i. a good advice when you can't find the error in your code just take some minutes away of the computer and give your eyes some rest and let your mind to work to identify the problem.
+    4. creating a test case
+        a. test code: commands or scripts designed to test a specific scenario.

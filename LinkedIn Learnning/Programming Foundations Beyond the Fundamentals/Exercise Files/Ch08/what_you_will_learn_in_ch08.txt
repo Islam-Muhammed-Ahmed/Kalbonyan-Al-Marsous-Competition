@@ -1,0 +1,16 @@
+        #بسم الله#
+#Ch08
+
+    1. introduction to object-oriented programming
+       a. OOP (google it):is all about creating “objects”.
+            An object is a group of interrelated variables and functions.
+            These variables are often referred to as properties of the object and functions are referred to as the behavior of the objects
+        b. attributes & properties:
+            i. attributes is the data that the object has.
+            ii. properties is the methods (behavior) that the object can do (functions) 
+        c. creating object is known called class & this class could be inherit in all your app
+    2. built in classes:
+        ex: array methods, string methods 
+    3.creating custom classes and objects
+        the good thing of using classes is preventing permeative code . 
+        

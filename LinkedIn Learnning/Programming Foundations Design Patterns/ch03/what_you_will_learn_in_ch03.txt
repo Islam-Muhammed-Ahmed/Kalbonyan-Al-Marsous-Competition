@@ -1,0 +1,12 @@
+        #بسم الله #
+ch03:
+
+    1. Understanding the adapter pattern
+        i. Imagine you have a charger with three electrical connections and a power switch with only two slots. There is no solution to this problem other than using an adapter that connects them and then it will work well.
+    2. The Adapter pattern defined
+        i. the adapter pattern : 
+            it converts the interface of a class into another interface that clients expect.
+            it allows classes to work together that couldn't otherwise because incompatible interface.
+    3. Using the Adapter pattern
+        a. adapter use composition.
+    

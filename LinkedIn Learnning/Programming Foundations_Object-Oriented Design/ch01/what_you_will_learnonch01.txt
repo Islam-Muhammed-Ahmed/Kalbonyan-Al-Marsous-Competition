@@ -1,0 +1,36 @@
+            #بسم الله #
+#لو حابب تشوف فيديو سريع و مبسط باللغه العربيه تقدر تشوف فيديو لاسلام على قناة codezilla 
+# this is the play list link : https://www.youtube.com/playlist?list=PLuXY3ddo_8nzUrgCyaX_WEIJljx_We-c1
+
+# ch01:
+
+    1. Object-oriented thinking:
+        a. it helps to compare it with a common alternative .
+    2. objects :
+        a.you as a human an object ^^ & every thing  around you are considered as objects in programming
+        b. but if you have 2 mugs or cubs tha doesn't they are the same object .
+            ex: mug can be full, empty or somewhere in between.
+        c. objects have:
+            i. identity : islam's coffee mug
+            ii. attributes : color,size,fullness
+            iii. behaviors : fill(), empty(), clean()
+        d. in oop we don't focus on the verbs as we focus the nouns  
+    3. classes : is code-template for creating program objects 
+        a. once you create a class you can use objects in it as you want and start to use in any place in your program
+        b.methods: is basically is a func but methods are defined as they are part of class.
+    4.  abstraction : 
+        a. means we focus on essential qualities of something rather than one specific example. 
+            ex: you have a coffee machine you only care about your cub of coffee and doesn't care about the process which the machine is doing like boiling the water, mix coffee and etc... 
+          another definition abstraction shows the final result of the process.
+    5. encapsulation : 
+        a. means containing the element of an object. not to keep them together but to protect your data.
+        b. you can only access these data by using their method.
+        c.the important principle of encapsulation that an object should not make any thing about it self available except for necessary data for other apps to make it run.
+    6. inheritance :(code reuse instead writing it from scratch) 
+        a. base a new object or class on existing one.
+        b. inherit the existing attributes and methods.
+    7. polymorphism : 
+        a. dynamic polymorphism : uses the same interface for methods on different types of objects.
+        b. static polymorphism : it uses method  called overloading this method implement multiple methods with the same name, but different params .
+    8. analysis,design and programming    
+    9. unified modeling lang (UML). 

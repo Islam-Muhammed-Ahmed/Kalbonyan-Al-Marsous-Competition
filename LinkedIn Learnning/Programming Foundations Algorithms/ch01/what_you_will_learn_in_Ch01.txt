@@ -1,0 +1,19 @@
+            # بسم الله #
+# Ch01 :
+    1. what are algorithms ?
+        a. an algorithm is a set of instructions for solving a problem or accomplishing a task.
+    2. Common algorithms in programming
+        a.search algorithms like finding a specific data in a structure.
+        b. sorting algorithms takes a dataset and apply a sort order to it.
+        c. computational algorithms given one set of data, calculate another.
+        d. open exercise file.
+    3. Measuring algorithm performance
+        a.it's important understand how to talk about algorithm performance this's help you how to choose a particular algorithm to solve programming problem. 
+        b. measure how an algorithm respond to dataset size.
+        c. Big-O notation this notation format is used to describe how a particular algorithm performs as size of set input grows over time.
+        d. "important" Common Big-O notation Terms:
+          i. O(1)=> constant time => looking up a single element in array.
+          ii. O(log n)=> logarithmic => finding an item in a sorted array with a binary search.
+          iii. O(n)=> linear time => searching an unsorted array for a specific value.
+          iv. O(n log n)=> long-linear => complex sorting algorithm like heap sort and merge sort.
+          v. O(n²)=> quadratic => simple sorting algorithm, such as bubble sort, selection sort and insertion sort.

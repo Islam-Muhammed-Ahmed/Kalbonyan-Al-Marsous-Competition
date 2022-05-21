@@ -1,0 +1,42 @@
+        #بسم الله #
+ch02:
+    1. Revisiting inheritance
+        a. inheritance is of the core concept of OOP.
+    2.Limitations of inheritance
+        a. imagine you have a super class contains methods {like Duck superclass{these methods are 
+            quack()
+            fly()
+            swim()
+        }} but there is so many types of ducks which can't fly or quack here you need to over ride these methods
+            the overriding is considered as duplicate your code which is a problem.
+    3. Trying interfaces
+        a. an interface defines the methods an object must have an in order to be considered a particular type.
+        b. inter allow different classes to share similarities not all classes need to have the same behavior.
+            ex. imagine you create two interfaces flyable fly() and quackable quack() now your duck superclass will needs swim() and display() methods
+                here all ducks will inherit the swim() and display() methods and ducks which can fly will use the interface method fly().
+        c. this look like we have solve the problem but it's still have a problems which are:
+            i. it destroys code reuse. ii. it cause nightmare when you need to maintain fly and quack methods.
+            iii. it doesn't allow for runtime changes in behaviors.
+    4. Get inspiration from design principles
+        a. inheritance doesn't work well:
+            i. behavior changes across subclasses, and it's not appropriate for all subclasses to have all behaviors.
+        b. interfaces doesn't work well:
+            while using interfaces cleaned up our design from an OOP perspective,
+            i. the sound promising, but interfaces supply no implementation and destroy code reuse.
+        c. Encapsulate what varies : identify the aspects of your application that vary and separate them from what stays the same.
+        d. program to an interface not an implementation:  clients remain unaware of the specific types of objects they use, as long as the objects adhere to the interface that clients expect.
+    5. Programming to an interface
+    6. Programming to an interface
+    7. Applying the principles
+    8. Exploring the strategy pattern
+        a. strategy pattern : defines a family of algorithms, encapsulates each one, and makes them interchangeable.
+         this let the algorithm vary independently from clients that use it.
+    9. Why HAS-A is better than IS-A
+        a. we are using HAS-A relationship:
+            i. each duck has a FlyBehavior and QuackBehavior.
+            note : IS-A is an inheritance relationship and HAS-A is composition relationship.
+        b.instead of inheriting behavior, we're composing it.
+            i. a duck composed with fly behavior and quack behavior.
+        c. favor composition over inheritance : classes should achieve code reuse using composition rather than inheritance from superclass.
+    10. Challenge: The Strategy pattern
+        

@@ -1,0 +1,19 @@
+        #بسم الله #
+
+# ch05 & Ch06
+    in ch05:
+
+        1.  planning a program ? 
+            a. it's like you have a broken lamb and you want to fix it you'll have to walk through some steps you planned and the tools you will need it to fix it
+                1. buy new lamb 2. getting ladder 3. get rid of old lamb 
+                4. finally you fixe  it. 
+            b. that depends on which way you will solve this problem or build your app
+            c. after a pit of time you will learn so many tools in programming and you will decide which tool you build your program 
+        2. pseudo code: 
+            writing a description of what you're trying to do using plain lang.
+
+    in ch06 :
+        1. introduction to input and output
+        
+        2. working with file input and output
+          

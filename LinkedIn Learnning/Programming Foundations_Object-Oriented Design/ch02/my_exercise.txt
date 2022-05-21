@@ -1,0 +1,14 @@
+#solve challenge.
+# functional requirements
+
+# first the system should: 
+# 1.have a library for songs and albums. 
+# 2. allow user to show the songs and album 
+# 3. play music/ stop music/ search box
+# as barron and olivia where fighting on the music we should an id for each user as he can play what he wants & like
+
+# nonfunctional requirements
+
+# available 24 hrs
+# try to implement it in good performance to save the power
+# make it updatable on every new album released

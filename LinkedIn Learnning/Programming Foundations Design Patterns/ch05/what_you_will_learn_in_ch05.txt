@@ -1,0 +1,17 @@
+        #بسم الله #
+CH05:
+
+    1. Creating chaos with inheritance
+    2. Understanding the open-closed principle
+        a. it's a classes should be open for extension but closed for modification.
+         Question: how do we design object system that adhere to the open-closed principle?
+         answer: inheritance : powerful, but it can lead to inflexible designs.
+                               all classes inherit all behaviors.
+                 composition : we can still inherit behavior but we can do it by composing objects together.
+                                we can make dynamic runtime decisions
+    3. Extending behavior with composition
+    4. Understanding the decorator pattern
+        a. this pattern attaches additional responsibilities to an object dynamically.
+            decorators provide a flexible alternative to subclassing for extending functionality.
+    5. Using the Decorator pattern
+    

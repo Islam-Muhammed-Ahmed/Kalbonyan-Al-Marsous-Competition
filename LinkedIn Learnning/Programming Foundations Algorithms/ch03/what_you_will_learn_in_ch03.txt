@@ -1,0 +1,10 @@
+        #بسم الله#
+# ch03:
+    1. Understanding recursion
+        a. recursion it's s function call itself from within it's own code.
+        b. recursive function need to have a breaking condition or it will goes to an infinite loop.
+        c. this prevent infinite loops and eventual crashes.
+        e. each time the function is called, the old arguments are saved.
+        f. this is called the "call stack".
+    2. Simple recursion example
+    3. Power and factorial.

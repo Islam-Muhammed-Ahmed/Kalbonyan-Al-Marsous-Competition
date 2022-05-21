@@ -1,0 +1,47 @@
+#in this chapter you will learn.
+1. variables and data type .
+    a.variables are the containers of the value you assign to it .
+    b. how this work ? when you run your program the computer will give a memory where you can put data that you want to use.
+    . google search for data types in python
+        Data/Variable types:
+        Text: String(str when writing code)
+        Number: Integer(int), float, complex
+        Sequence: list, tuple, range
+        Mapping: Dictionary
+        Boolean: bool
+        binary: bytes, bytearray, memoryview
+
+2. comparing between data types in other langs like java objective c.
+
+3.the rules you have to follow to write variables
+    a. vars name should contains only letters,numbers,and underscore note: even the numbers are allowed but your variable name shouldn't start with numbers.
+        ex: 3blindmice wouldn't be a valid name
+    b. spaces aren't allowed 
+        ex: account balance is error but account_balance is good
+    c. python is case sensitive 
+        ex: message != Message in vars names.
+    d. reserved words n't allowed to be variables names
+        ex: Variables can't be keywords
+
+4.how to work with numbers 
+    a. numbers type : Integer(int), float.
+    b. operators : +, -, *, /, %, // .
+    c. not allowed to use commas in numbers
+        ex: 45,000 that because the use of commas will confuse the python interpreter.
+
+5.how to work with Strings
+    a. strings should be inside double quotes "" or single quotes ''
+        ex: print("hello world").
+        ex: print('hello world').
+    b.not allowed to write double quotes inside double quotes.
+    c. it's okay to write single quotes inside double quotes , or vice versa.
+
+6. empty lines or white space.
+    a. it help us to make every thing clear or easy to read.
+
+
+###important note the more you practice the more you  the more you follow the rules of any programming language . + always search before ask your mentor or instructor.
+
+7. comments : helps you to understand your code you write in the past 
+    a. in python we use # to comment the code .
+

@@ -1,0 +1,18 @@
+        #بسم الله #
+# ch04 :
+    
+    1. Identifying the objects
+        a. conceptual model : represent important objects and the relationships between them.
+        b. to identify object we go through all of our use cases and user story and any other written requirements to pick up all the nouns.
+        c. they will learn how to choose your nouns from user story.
+    2. Identifying class relationships
+        a. means after drawing your diagram you start to connect this diagram together to get the relation between them.
+            the diagram drawing you will see in the video
+    3. Identifying class responsibilities
+        a. this means what your app will do and start to divide them or combine some of them.
+        b. conceptual object model : means who will do this task or this and goes through some steps in the ex in the you will got it.
+        c. important note : responsibilities should be distributed between the objects don't store in one master object.
+    4. CRC cards : stands for
+        .Class .Responsibility .Collaboration.
+       CRH cards : stands for
+        .Class .Responsibility .Helpers

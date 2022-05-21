@@ -1,0 +1,11 @@
+        #بسم الله #
+# ch03:
+    1. What are sets?
+        a. a set as abstract data type. it's an idea that it can be implemented in many different ways.
+        b. set is a collection if unique items order doesn't matter but doesn't allow duplicated.
+    2. Introduction to tree data structures
+        a. like linked list tree data structure contain nodes to point to the next or previous element the key different that the tree node could be linked to one or two nodes.
+    3. Understand binary search trees
+    4.Understand heaps
+        a. heap is a data structure implemented as a binary tree .
+        

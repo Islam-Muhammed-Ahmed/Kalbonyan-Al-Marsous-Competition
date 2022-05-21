@@ -1,0 +1,19 @@
+        #بسم الله # 
+# ch03: 
+
+    1.What are linked lists?
+        a. a linked list is linear data structure.
+        b. hte elements in a linked list are not stored at contiguous locations.
+    
+    2. Operations on linked lists
+        a. just like an array you can add, access, delete or search.
+        b. to access an item here we are not using it's index as an array here we have to follow the pointer until you find the item you want to access.
+        c. the will happen with delete and search. 
+    3. use linked lists in Java
+    4. Use linked lists in Java
+    5. Singly vs. doubly linked lists
+        a. singly linked list : they only have a pointer to the next node in the list and we can go forward to the next pointer but we can't go back.
+        b. doubly linked lists: here are called double because we have a next and previous pointer and we can go through the list forward or backward.
+    6.Lists in other languages
+        a. no built in linked lists for swift, ruby and javaScript.
+        

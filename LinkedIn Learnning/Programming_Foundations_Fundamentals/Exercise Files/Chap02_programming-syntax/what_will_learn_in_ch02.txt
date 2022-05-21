@@ -1,0 +1,18 @@
+#in this chapter you will learn.
+1. first  the instructor after comparing over 3 programming langs she will convince you in simple way 
+to choose with her python language . 
+
+2. how to install python on mac & window.
+
+3. how to deal with the command line to execute your code "Hello world!".
+
+4. installing vs code .
+
+5. running python on your IDE Ex. Vs code. 
+
+6. basic statements and expressions (+, *, /, -).
+
+7. at the End shr will learn you Errors categories (syntax Error, runtime Errors, Semantic)
+    a.Syntax Errors : language rules broken ex: writing 2 plus 2 instead of 2 + 2 will give this error.
+    b.Runtime Errors :  this mean your computer was unable to  execute your code. and she will learn you to solve it on stack-overflow
+    c. Semantic Errors : means unexpected output . or the output of your is not as you expected. 

@@ -1,0 +1,33 @@
+        ## بسم الله ##
+# ch01 collections :
+    1. first understanding collections
+        a. grouping similar items useful in programming calls Collections
+            !!. helps you to group multiple items together with a single name called variable 
+
+    2.creating simple and complex Collections
+        a. List and dictionary
+            ex list: cities =[  
+                "Suez",
+                "cairo,
+                "Sohag",
+                "Aswan",
+            ]
+
+            ex dictionary: food ={
+                "appetizer": "hummus",
+                "entree": "gyro wraps",
+                "dessert": "baklava"
+            }
+
+    3. how to deal with list and dictionary (collections)
+        a. concept allow you to store data to access individual data by it's index
+        b. index start with (0) 
+        c. to access Suez which mention in previous ex 
+            ex in list: print(cities[0]) = Suez
+            ex in dictionary : print(food["entree"]) = gyro wraps
+
+    4. at the end of the ch01 he will compare collections in other langs   
+#############
+
+
+

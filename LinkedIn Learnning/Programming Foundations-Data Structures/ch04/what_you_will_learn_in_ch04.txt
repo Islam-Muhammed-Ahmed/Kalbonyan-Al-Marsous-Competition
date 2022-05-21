@@ -1,0 +1,33 @@
+        #بسم الله #
+# ch04 :
+    1. What are stacks?
+        a. stack is another data type where we can store data , stack is an ordered series of objects.
+        b. stack is just like a list but it's intended use is slightly different we push objects into a stack and pop objects off of it.
+        c.  stack follows last in first out (LIFO) policy.
+    2. Implement stacks in Swift :
+        a. how do stacks work in code?
+            ans: with some langs give you stack functionality out right, but with others, you've to use tools given from the lang to implement your own stack.
+    3. Use stacks in Swift for LIFO
+    4. Error tracing with stacks
+        a. runtime stack (call stack): it keeps track of what kind of variables you have access to and what subroutine or func your are in.
+    5. What are queues?
+        a. it's like stacks and lists queues represent a series of ordered objects but it's different in access, add or remove .
+        b. imagine a queues of people want to buy a bread this queue has a front and back and it's work the exact same way in code .
+        c. it's designed to have elements inserted at the end of the queue and element removed and works on First In First Out (FIFO) policy.
+        e. when we say enqueue or dequeue an item?
+            ans : Enqueue is when we add an item in a list .
+                  Dequeue is when we remove an item from a list.
+    6.Implement queues in Swift.
+    7. Use queues in Swift for FIFO.
+    8. Queues in other languages.
+    9.Specialized queues.
+        a. priority queue: each element has a priority associated with it .
+    10.Pros and cons of stacks and queues
+        a. what stacks are great for? 
+            i. reversing data 
+            ii. keeping track of state 
+            iii. add/remove from back of a structure. 
+            iv. stack only keep track of state not good with adding, searching or deleting.
+        b. queues are similar to stack and only show their advantages when you are using first in first out (FIFO) policy
+            enqueue in the back and dequeuing in the front.
+         

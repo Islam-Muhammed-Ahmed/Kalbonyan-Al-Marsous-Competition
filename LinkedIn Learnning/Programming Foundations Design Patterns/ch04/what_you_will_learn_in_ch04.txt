@@ -1,0 +1,21 @@
+        #بسم الله #
+ch04:
+
+    1. Understanding the Observer pattern
+        a. the Observer pattern exemplifies of loose coupling
+            i. loose coupling: strive for loosely coupled designs between objects that interact.
+    2. The Observer pattern defined
+        a. it's a pattern defines a one-to-many dependency between objects so that when one object change state,
+            all of its dependents are notified and updated automatically.
+    3. The Observer pattern and loose coupling
+        subjects:
+            a. subjects and Observers are loosely coupled
+            b. they interact, but have little knowledge of each other.
+            c. subject knows only that the Observer implements a specific interface.
+            d. subject doesn't need to know the concrete class of the observers.
+        observers:
+            a. the subject relies on a list of observers.
+            b. observers can be added, removed, or replaced at anytime.
+            c. subject doesn't care : it keeps doing it's job.
+            d. any change you made to the observers never effect on the others that's true loose coupling.
+            

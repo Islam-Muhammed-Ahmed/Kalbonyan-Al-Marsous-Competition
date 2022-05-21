@@ -1,0 +1,11 @@
+#solve challenge
+
+Title : play song
+primary actor : islam (user)
+success scenario : 
+    1.system recognize the user .
+    2. user can see library for every available album .
+    3. user can play any song he like it from any album he wants
+    4. system play the chosen song 
+    5. user can pause / play the song 
+    6. user can make his own playlist 

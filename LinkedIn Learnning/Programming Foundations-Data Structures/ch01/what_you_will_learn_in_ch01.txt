@@ -1,0 +1,37 @@
+        #بسم الله #
+# ch01 :
+    1. Introduction to data and data types
+        a. data is information that is stored or processed by a computer.
+        b. common types of data is numbers, letters, boolean (true, false), 
+        c. data type : an attribute of data that describes the values it can have and how the data can be used .
+    2. Numerical data types :
+        a. whole (int, short or long) numbers & decimal(floats or double) number
+            what's the difference between these dataa types ?
+            answer:  is the precision with which they store their values or the difference in the range of numerical values that data types can store.
+            you can see the number_pic to got it  
+    
+    3. Booleans and characters : 
+        a. booleans has two possible values true & false most use of them in conditions is true or false.
+        b. booleans are one bit since true =1 & false = 0 that mean they are stored in one bit 
+    4. Primitive types in memory
+        a. all data we store like ints, doubles, longs, floats, booleans or etc.... are primitive types.
+        b. these can also be called basic or value types 'cause these are types that have a fixed size that size doesn't depends on the data inside of them .
+            ex : double in c# or in java always 64bit .
+    5. Introduction to data structures
+        a. data structures are containers they allow us to combine several pieces of data into single structure.
+        b. data structures are made up of pieces of data .
+    6. Strings :
+        a. string is a sequence of characters it's data type that built out of another data type.
+    7. Primitive vs. reference types in memory
+        a. with primitive data types we know exactly how much space they will take up.
+            referenced types   VS  primitive types
+              (variableName ->      (variableName ->
+                memoryAddress ->       data )
+                value) 
+
+                .strings            .int
+                .data structures    .boolean
+                                    .character
+                                    .float
+                                    .double
+    

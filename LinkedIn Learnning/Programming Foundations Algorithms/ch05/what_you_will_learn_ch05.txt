@@ -1,0 +1,13 @@
+        #بسم الله#
+ch05:
+
+    1. Unordered list search:
+        a. is a collection of items where each item holds a relative position with respect to the others. 
+        b. it has a big O of linear time complexity.
+            want to read more: https://runestone.academy/ns/books/published/pythonds/BasicDS/TheUnorderedListAbstractDataType.html
+    2.Ordered list search
+        a. is a collection of items where each item holds a relative position that is based upon some underlying characteristic of the item.
+        b. The ordering is typically either ascending or descending and we assume that list items have a meaningful comparison operation.
+           want to read more: https://runestone.academy/ns/books/published/pythonds/BasicDS/TheOrderedListAbstractDataType.html#the-ordered-list-abstract-data-type
+    3.Determine if a list is sorted
+    

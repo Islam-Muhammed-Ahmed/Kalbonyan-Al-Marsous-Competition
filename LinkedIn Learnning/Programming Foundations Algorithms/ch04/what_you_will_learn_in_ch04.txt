@@ -1,0 +1,29 @@
+        #بسم الله##
+# ch04:
+    1. Overview of sorting
+        a. most modern languages have sorting built in .
+        b. the bubble sort.
+        c. the merge sort.
+        d. the quicksort.
+    2. The bubble sort
+        a. bubble sort : first thing the bubble sort doing is compare the elements together so if the first element bigger than the second it will swap them and so on till it bubbles all elements to the top.
+        b.  very simple to Understand and implement
+        c. performance: O(n­­²) #to write 2 squared press alt then (0178).
+            note : for loops inside for loops are usually n².
+        e. other sorting algorithms are generally much better.
+        f. not considered to be practical solution (it's for teaching)
+    2. The merge sort
+        a. merge sort is called divide and conquer algorithm.
+        b. it takes given sets of data and breaks them into individual pieces and merges them.
+        c. use recursion to operate  on datasets.
+        d. performs well on large sets of data.
+        e. on general has performance of O(n log n) time complexity.
+    3. Implement the merge sort
+    4. quickSort : 
+        A. it's like the merge divide and conquer algorithm.
+        b. uses recursion to perform it's work.
+        c. generally performs better than merge sort, O(n log n).
+        d. perform it's operation in the same array doesn't need any extra memory.
+        e. worst case is O(n2) when data mostly sorted already.
+    5. Implement the quicksort
+    

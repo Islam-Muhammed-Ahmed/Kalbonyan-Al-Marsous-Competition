@@ -1,0 +1,38 @@
+   #بسم الله##
+
+# ch02:
+    1. Introduction to data structures
+        a. here  in this chapter the instructor will talk about basic data structure that often use with algorithms.
+    2. arrays :
+        a. array is collection of elements identified by index or key. index start with 0.
+        b. array operation calculate item by it's index take O(1).
+            . insert or delete takes order in the beginning O(n)
+            . insert or delete item takes order in the middle O(n)
+            . insert or delete item takes order in the end takes O(1).
+    3. linked list: 
+        a. is linear collection of data elements which called nodes.
+        b. each element can contain reference to the next node in the list.
+        c. holds whatever data the application needs to work.
+            notes : first element is called the head and the each element has a field that refers to the next item in the list and the last element has a field that points to nothing which indicates that it's the end.
+        d. elements can easily inserted and removed . 
+        e. can't do constant time random item access.
+        f. underlying memory doesn't need to be reorganized.
+        g. item lookup is linear in time complexity (O(n)).
+    4. Stacks & Queues:
+        a. Stack is collection of elements that two optional operates push and pop.
+            the first item pushed is the first item popped (LIFO) policy.
+            pushing item in stack it take constant time.
+        b. Queue is collection of elements that support adding and removing .
+            the first item in the is the first item out (FIFO) policy.
+
+        c. practical app for Queue and stack:
+            i. stack : expression processing => ex: backtracking : browser back stack, for example.
+            ii. queue : order message => messaging queue in sure that every message you type in send to the receiver as it's written in queue.
+    5. Stacks and queues walk through
+        see folder stack and queue. examples code in python.
+    6. Hash tables:
+        a. hash is a form called an associative array.
+        b. one of the primary benefits of hash tables is their ability to unique map a given key to specific value.
+           hash tables are typically faster than other kind of tables.
+           for small datasets, arrays are usually more efficient.
+           hash tables don't order entries in predictable way.    

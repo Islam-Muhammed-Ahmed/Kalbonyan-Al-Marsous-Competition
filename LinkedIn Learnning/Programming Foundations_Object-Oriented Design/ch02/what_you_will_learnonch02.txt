@@ -1,0 +1,11 @@
+            #بسم الله #
+
+# ch02 : 
+    1. defining requirements (There is a lot of information that you need to focus on)
+        a. thinking what your app will do ? what is the problem you've to solve? why you are building this app?
+        b. one of the best solutions to your to know why the clients to do the update or add new feature ^^
+    2.  FURPS + requirements :
+        a. FURPS stands for : 
+            i. functionality ii. usability iii. reliability iv.performance 
+        b.  you have to care about : design, implementation, interface, physical.
+    3. 

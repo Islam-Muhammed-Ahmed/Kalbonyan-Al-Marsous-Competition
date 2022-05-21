@@ -1,0 +1,31 @@
+#in this chapter you will learn.
+
+ 1. relational operators , making decision in programming
+    a.boolean expression (tru,false).
+       ex: 2 + 3 == 5 ? answer is True
+       ex: 2 + 3 != 5 ? answer is False
+ 
+2.conditionals
+
+ 3.if statement 
+   a. if condition:
+         code
+      else: 
+
+   b.code block
+      depends on it's indent 
+         ex:  if condition:
+                  print("hello") 
+                  # this statement in if code block
+               print("bye")
+               #this statement in new block outside the if statement
+4. conditionals in other languages 
+   in python:                 in java:                        in Ruby:     
+      if condition:              if(condition){                   if condition
+         code block                    code block                    code block
+                                 }                                
+      else:                      else{                             else
+         code block                         code block               code block      
+                                 }                                 end
+                                       
+      
